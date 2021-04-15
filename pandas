@@ -1,1 +1,8 @@
+import pandas as pd
+pd.Series([10,88,3,4,5])
+
+seri = pd.Series([10,88,3,4,5])
+type(seri)
+
+seri.axes
 
